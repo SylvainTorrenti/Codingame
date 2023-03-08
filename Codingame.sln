@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsLander-Episode1", "Mars
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChevausDeCourse", "ChevausDeCourse\ChevausDeCourse.csproj", "{89A7570C-9B20-412B-AD55-224C47DA4995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unary", "Unary\Unary.csproj", "{92E7B0F4-F909-4F96-AADD-B01044A03B79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unary", "Unary\Unary.csproj", "{92E7B0F4-F909-4F96-AADD-B01044A03B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{CF4F1B3A-CB7E-423C-B968-377B8B9B9177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{CF4F1B3A-CB7E-423C-B968-377B8B9B9177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mime", "Mime\Mime.csproj", "{3CB679B6-DF31-4C41-9A6E-ADA07BEECC67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CF4F1B3A-CB7E-423C-B968-377B8B9B9177}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF4F1B3A-CB7E-423C-B968-377B8B9B9177}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF4F1B3A-CB7E-423C-B968-377B8B9B9177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB679B6-DF31-4C41-9A6E-ADA07BEECC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB679B6-DF31-4C41-9A6E-ADA07BEECC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB679B6-DF31-4C41-9A6E-ADA07BEECC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB679B6-DF31-4C41-9A6E-ADA07BEECC67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
